@@ -1,5 +1,7 @@
 👋 Hello, je suis Léonard !
+
 🎓 À propos de moi
+
 💻 Étudiant en BTS SIO (2ᵉ année)
 
 🧮 Passionné par les maths et l'informatique
