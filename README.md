@@ -16,6 +16,5 @@
 - 🔹 **Autres compétences** : Développement web, bases de données, algo  
 
    📫 Me contacter  
-📧 Email : [ton email ici]  
-📷 Instagram : [ton insta ici]  
+📧 Email : bonnetl3onard@gmail.com 
 
